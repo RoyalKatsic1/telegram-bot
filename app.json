@@ -1,6 +1,6 @@
 {
     "name": "telegram-md",
-    "description": "Gifted-Md, A simple Telegram user bot Created by Gifted Tech",
+    "description": "RoyalKatsic Ai, A simple Telegram user bot Created by Royal Katsic",
     "logo": "https://github.com/mouricedevs.png",
     "repository": "https://github.com/mouricedevs/telegram-bot",
     "keywords": ["whatsappbot", "Gifted Tech", "GIFTED MD", "GIFTED TECH 𝙈𝘿", "GIFTEDMdWhatsaooBot", "GIFTEDMDWaBot","GIFTED","GIFTED TECH Md Whatsapp Bot","multi device"],
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ]",
+        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 ROYAL KATSIC ]",
         "required": false 
       }
     }   
