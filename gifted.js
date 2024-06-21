@@ -26,7 +26,7 @@ function startGifted() {
 
     child.on("close", (code) => {
         if (code === 2) {
-            console.log("Restarting Gifted-Md...");
+            console.log("Restarting Royal Katsic Ai...");
             startGifted();
         }
     });
